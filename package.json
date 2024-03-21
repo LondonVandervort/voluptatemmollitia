@@ -1,0 +1,41 @@
+{
+  "name": "voluptatemmollitia",
+  "author": "LeoWelch",
+  "description": "Parse module aliases from tsconfig ; Apply / remove them from pathnames ; Generate config for webpack & module-alias.",
+  "keywords": [
+    "odit",
+    "ipsum",
+    "doloribus",
+    "excepturi",
+    "incidunt",
+    "dolore",
+    "ullam",
+    "tempore",
+    "nesciunt",
+    "dolorum",
+    "cum",
+    "nostrum",
+    "beatae",
+    "vero",
+    "corporis",
+    "nam"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "bin/index.js",
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LondonVandervort/voluptatemmollitia.git"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.29",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "json5": "^2.2.0"
+  },
+  "homepage": "https://github.com/LondonVandervort/voluptatemmollitia.git"
+}
